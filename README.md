@@ -1,4 +1,1 @@
-# Statistical_Methods_3_project 678
-This project contains 15% of the total credits assigned for the course and comprises of creating a concise report alongwith a presentation. We shall be keeping a master sheet all along for the aid of project defence 
-# Statistical_Methods_3_project
-This project contains 15% of the total credits assigned for the course and comprises of creating a concise report alongwith a presentation. We shall be keeping a master sheet all along for the aid of project defence...
+Originally a graded college project for theoretical Statistics, this work explores the unique benefits of probabilistic soft clustering over the usual hard clustering on real world dataset. Additionally the EM algorithm for finite Gaussian Mixture models and specifically the covariance matrix optimization step for the VEV model were thoroughly studied. Exploratory Data Analysis of post clustering profiles can add to managerial decisions regarding allocation of advertisement costs, special reward/offer proposals etc.
